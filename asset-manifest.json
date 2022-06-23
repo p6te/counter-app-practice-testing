@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/counter-app-practice-testing/static/css/main.edf54aa6.css",
+    "main.js": "/counter-app-practice-testing/static/js/main.17d6fd6b.js",
+    "static/js/787.5863b875.chunk.js": "/counter-app-practice-testing/static/js/787.5863b875.chunk.js",
+    "index.html": "/counter-app-practice-testing/index.html",
+    "main.edf54aa6.css.map": "/counter-app-practice-testing/static/css/main.edf54aa6.css.map",
+    "main.17d6fd6b.js.map": "/counter-app-practice-testing/static/js/main.17d6fd6b.js.map",
+    "787.5863b875.chunk.js.map": "/counter-app-practice-testing/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf54aa6.css",
+    "static/js/main.17d6fd6b.js"
+  ]
+}
