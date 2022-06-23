@@ -13,7 +13,7 @@ function Counter() {
   };
 
   return (
-    <div>
+    <div className="counter">
       <h1 data-testid="header">My Counter</h1>
       <h2
         data-testid="counter"
