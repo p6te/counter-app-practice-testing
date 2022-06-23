@@ -39,9 +39,9 @@ input {
   color: #274472;
 }
 .green {
-  color: green;
+  color: rgb(0, 202, 0);
 }
 
 .red {
-  color: red;
+  color: rgb(255, 0, 0);
 }
